@@ -5070,6 +5070,11 @@ h4 {
     padding-top: 20px;
   }
 }
+@media (min-width: 768px) {
+  .container {
+    padding-top: 200px;
+  }
+}
 .list-inline > li {
   padding-right: 10px;
 }

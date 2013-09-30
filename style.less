@@ -7,13 +7,16 @@ h4 {
 }
 .container {
     @media(min-width: @screen-desktop){
-    h1,h4 {
-        line-height: 24px;
-    }
         padding-top: 200px;
+        h1,h4 {
+            line-height: 24px;
+        }
     }
     @media(max-width: @screen-phone){
         padding-top: 20px;
+    }
+    @media(min-width: @screen-tablet){
+        padding-top: 200px;
     }
 }
 .list-inline > li {
