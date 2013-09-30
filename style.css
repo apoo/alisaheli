@@ -5096,6 +5096,9 @@ li a img {
 }
 @media (min-width: 992px) {
   .links {
-    padding-top: 20px;
+    padding-top: 30px;
   }
+}
+.profile img {
+  border-radius: 15%;
 }
