@@ -5056,6 +5056,47 @@ h1 {
 h4 {
   font-size: 24px;
 }
+.list-inline > li {
+  padding-right: 10px;
+}
+ul li.truth a {
+  color: #F15C22 ;
+}
+ul li.foro a {
+  color: #1BDD6D;
+}
+ul li.github a {
+  color: #4183C4;
+}
+ul li.quora a {
+  color: #A82400;
+}
+ul li.angellist a {
+  color: #111111;
+}
+ul li.linkedin a {
+  color: #4091B9;
+}
+ul li.hackernews a {
+  color: #FF6600;
+}
+li a img {
+  padding-right: 5px;
+  width: 30px;
+}
+.profile img {
+  border-radius: 15%;
+}
+@media (min-width: 992px) {
+  .links {
+    padding-top: 30px;
+  }
+}
+@media (min-width: 768px) {
+  .links {
+    padding-top: 30px;
+  }
+}
 @media (min-width: 992px) {
   .container {
     padding-top: 200px;
@@ -5079,40 +5120,15 @@ h4 {
     line-height: 24px;
   }
 }
-.list-inline > li {
-  padding-right: 10px;
-}
-ul li.foro a {
-  color: #1BDD6D;
-}
-ul li.github a {
-  color: #4183C4;
-}
-ul li.quora a {
-  color: #A82400;
-}
-ul li.angellist a {
-  color: #111111;
-}
-ul li.linkedin a {
-  color: #4091B9;
-}
-ul li.hackernews a {
-  color: #FF6600;
-}
-li a img {
-  padding-right: 5px;
-}
-@media (min-width: 992px) {
-  .links {
-    padding-top: 30px;
+@media (max-width: 480px) {
+  ul li {
+    float: left;
+    width: 50%;
+    padding-bottom: 10px;
   }
 }
-@media (min-width: 768px) {
-  .links {
-    padding-top: 30px;
+@media (max-width: 480px) {
+  .profile {
+    text-align: center;
   }
-}
-.profile img {
-  border-radius: 15%;
 }
