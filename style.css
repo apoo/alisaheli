@@ -5053,6 +5053,9 @@ h1 {
   font-weight: bold;
   font-size: 34pt;
 }
+h1 span {
+  display: None;
+}
 h4 {
   font-size: 24px;
 }
