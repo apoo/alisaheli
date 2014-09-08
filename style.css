@@ -5111,6 +5111,16 @@ li a img {
     padding-top: 20px;
   }
 }
+@media (min-device-width: 320px) {
+  .container {
+    padding-top: 20px;
+  }
+}
+@media (max-device-width: 568px) {
+  .container {
+    padding-top: 20px;
+  }
+}
 @media (min-width: 768px) {
   .container {
     padding-top: 200px;
