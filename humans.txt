@@ -1,0 +1,40 @@
+
+
+            /'/      /'        /' `\               /'                /'
+          /' /     /'        /'   ._)            /'                /'  
+       ,/'  /    /' O       (____    ____      /'__     ____     /' O  
+      /`--,/   /' /'             ) /'    )   /'    )  /'    )  /' /'   
+    /'    /  /' /'             /'/'    /'  /'    /' /(___,/' /' /'     
+(,/'     (_,(__(__    (_____,/' (___,/(__/'    /(__(________(__(__      
+    
+
+    The humans.txt file explains the team, technology, and graphic assets 
+    behind this site.
+
+_______________________________________________________________________________
+
+PEOPLE
+
+This website was hand-crafted by Ali Saheli.
+
+Ali Saheli
+http://www.alisaheli.com
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+HTML
+http://www.w3.org/html/
+
+CSS
+http://www.w3.org/Style/CSS/
+
+LESS
+http://lesscss.org/
+
+Github
+https://github.com/
+
+Bootstrap
+http://getbootstrap.com/
+
