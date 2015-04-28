@@ -8,8 +8,7 @@
 (,/'     (_,(__(__    (_____,/' (___,/(__/'    /(__(________(__(__      
     
 
-    The humans.txt file explains the team, technology, and graphic assets 
-    behind this site.
+    The humans.txt file explains the team and technology behind this site.
 
 _______________________________________________________________________________
 
