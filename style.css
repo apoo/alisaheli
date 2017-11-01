@@ -39,7 +39,7 @@ src: url('/fonts/MarkPro-Medium.otf')  format("opentype");
   height: 100%
 }
 .content{
-  margin-top: 150px;
+  margin-top: 100px;
 }
 a {
   text-decoration: none;
@@ -58,7 +58,9 @@ h1 {
   margin-bottom: 24px; 
 }
 @media only screen and (max-width: 680px) {
-  body {
-    margin: 32px; 
+  .content {
+      margin-top: 50px;
+      margin-left: 20px;
+      margin-right: 20px;
   }
 } 
